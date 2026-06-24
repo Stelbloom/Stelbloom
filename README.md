@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Stella Ugwunwa
+# Stella Ugwunwa Here 👋
 
 <p align="left">
   <a href="https://linkedin.com"><img src="https://shields.io" /></a>
