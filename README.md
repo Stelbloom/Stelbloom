@@ -7,7 +7,7 @@
 </p>
 
 ## 👤 About Me
-I am a Data Scientist with 5+ years of experience building end-to-end Machine Learning pipelines and predictive models (Max-Planck Alumnus). I bridge the gap between complex algorithmic workflows and strategic business intelligence. 
+I am a Data Scientist with 5+ years of experience building end-to-end Machine Learning pipelines and predictive models (Max-Planck Alumnus). I bridge the gap between complex algorithmic workflows and strategic business intelligence. Passionate about driving and developing data-driven solutons that helps organization, startups and individuals identify market opportunities, enhance business performance while achieving substainable business growth. 
 
 **Based in:** Hamburg, Germany 🇩🇪 (English: Native | German: Intermediate)
 
