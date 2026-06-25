@@ -2,7 +2,10 @@
 
 
 ## 👤 About Me
-<h3 align="center">I'm a Data Scientist specialize in Predictive Analytics, Machine Learning, Business Intelligence, and Healthcare AI. Passionate about transforming complex data extracting insights that drive revenue growth, optimize operations, reduce costs, improve customer retention, and support strategic decision-making. Experienced in developing data-driven solutions that help organizations identify market opportunities, manage risk, enhance performance, and achieve sustainable business growth.</h3>
+Data Scientist | Predictive Analytics | Healthcare AI Specialist
+
+<h3 align="center">I am a Data Scientist specializing in Machine Learning, Business Intelligence, and Healthcare AI. I am passionate about transforming complex datasets into actionable insights that drive revenue growth, optimize operations, and improve customer retention.
+My focus is on developing data-driven solutions that help organizations manage risk, identify market opportunities, and support sustainable strategic decision-making.</h3>
 
 **Based in:** Hamburg, Germany 🇩🇪 (English: Native | German: Intermediate)
 
