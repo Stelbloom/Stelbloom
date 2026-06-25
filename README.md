@@ -1,10 +1,5 @@
 # Stella Ugwunwa Here 👋
 
-<p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
-  <a href="PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE"><img src="https://shields.io" /></a>
-  <a href="PASTE_YOUR_POWER_BI_LINK_HERE"><img src="https://shields.io" /></a>
-</p>
 
 ## 👤 About Me
 <h3 align="center">I'm a Data Scientist specialize in Predictive Analytics, Machine Learning, Business Intelligence, and Healthcare AI. Passionate about transforming complex data extracting insights that drive revenue growth, optimize operations, reduce costs, improve customer retention, and support strategic decision-making. Experienced in developing data-driven solutions that help organizations identify market opportunities, manage risk, enhance performance, and achieve sustainable business growth.</h3>
@@ -38,13 +33,6 @@
 * **Executive Dashboards (Tableau & Power BI)**: Live operational UIs built for stakeholders *(Links in the header badges!)*.
 
 ---
-
-## 📈 My GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" width="400" />
-  <img src="https://vercel.app" width="300" />
-</p>
-
 
 
 <h3 align="left">Connect with me:</h3>
