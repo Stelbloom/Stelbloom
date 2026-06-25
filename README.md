@@ -2,9 +2,9 @@
 
 
 ## 👤 About Me
-Data Scientist | Predictive Analytics | Healthcare AI Specialist
+Data Scientist | Predictive Analytics | Specializing in Operations Optimization and FinTech AI
 
-<h3 align="center">I am a Data Scientist specializing in Machine Learning, Business Intelligence, and Healthcare AI. I am passionate about transforming complex datasets into actionable insights that drive revenue growth, optimize operations, and improve customer retention.
+<h3 align="center">I am a Data Scientist specializing in Machine Learning, Operational Optimization FinTech AI, and Business Intelligence. I am passionate about transforming complex datasets into actionable insights that drive revenue growth, optimize operations, and improve customer retention.
 My focus is on developing data-driven solutions that help organizations manage risk, identify market opportunities, and support sustainable strategic decision-making.</h3>
 
 **Based in:** Hamburg, Germany 🇩🇪 (English: Native | German: Intermediate)
